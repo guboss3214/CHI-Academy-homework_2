@@ -34,5 +34,5 @@ Implemented a `Person` -> `Student` / `Teacher` hierarchy using two different ap
 2. Run the following command in your terminal:
 
 ```bash
-node index.js
+node main.js
 ```
